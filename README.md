@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Eduardo_Figueroa_ghbanner.png" width="650" height="250">
+  <img src="Xai_Betancourt_Banner.png" width="650" height="250">
 </p>
 
 <h1 align="center">Hi 👋, I'm Xai Betancourt</h1>
