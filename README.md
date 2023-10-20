@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xespinosa&show_icons=true&locale=en&layout=compact" alt="Xespinosa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semaed&show_icons=true&locale=en" alt="semaed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xespinosa&show_icons=true&locale=en" alt="Xespinosa" /></p>
